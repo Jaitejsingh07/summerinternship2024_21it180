@@ -146,6 +146,7 @@ This internship focused on developing automated techniques for detecting mobile 
 
 ## 🤝 Connect with Us
 **Email:** [21it180@charusat.edu.in](mailto:21it180@charusat.edu.in) and [21it178@charusat.edu.in](mailto:21it178@charusat.edu.in)
+**Code:** [https://github.com/Jaitejsingh07/Mobile-Phone-Usage-Detection-for-Restricted-Zones](https://github.com/Jaitejsingh07/Mobile-Phone-Usage-Detection-for-Restricted-Zones)
 
 Thank you for visiting our project report! Feel free to reach out if you have any questions or feedback. ✨
 
