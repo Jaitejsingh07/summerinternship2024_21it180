@@ -1,5 +1,5 @@
 # summerinternship2024_21it180
-# 6th sem summer internship - In house at Charusat University - Project Showcase
+# 6th sem summer internship - In house at Charusat University
 Welcome to my GitHub repository for the In House Summer Internship 2024 at Charusat University! This project showcases the work done during the internship, including practical insights and research work done on the Topic of Mobile Detection - Enhancing Survaillence by training various state-of-the-art object detection models.
 
 # 📊 Internship Report: Mobile Phone Usage Detection
